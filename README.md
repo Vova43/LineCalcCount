@@ -1,2 +1,2 @@
 # LineCalcCount
-LineCalcCount
+Простое предложение для подсчёта строчек в файлах
