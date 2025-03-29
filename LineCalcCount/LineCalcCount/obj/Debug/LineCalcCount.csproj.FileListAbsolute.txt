@@ -1,0 +1,5 @@
+c:\users\vova43\documents\visual studio 2012\Projects\LineCalcCount\LineCalcCount\bin\Debug\LineCalcCount.exe
+c:\users\vova43\documents\visual studio 2012\Projects\LineCalcCount\LineCalcCount\bin\Debug\LineCalcCount.pdb
+c:\users\vova43\documents\visual studio 2012\Projects\LineCalcCount\LineCalcCount\obj\Debug\LineCalcCount.csprojResolveAssemblyReference.cache
+c:\users\vova43\documents\visual studio 2012\Projects\LineCalcCount\LineCalcCount\obj\Debug\LineCalcCount.exe
+c:\users\vova43\documents\visual studio 2012\Projects\LineCalcCount\LineCalcCount\obj\Debug\LineCalcCount.pdb
